@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "104372669564",
+    "project_id": "fir-integartion-952f1",
+    "storage_bucket": "fir-integartion-952f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104372669564:android:977b3fbcb92347b86f0df9",
+        "android_client_info": {
+          "package_name": "com.example.flutterfirebaseintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104372669564-3tdjsuc7hfe8ab8sve2j2i6uf63m0k2s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVe18Q-8mFUunIxYc1CtxvQQv_DdaHWSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104372669564-3tdjsuc7hfe8ab8sve2j2i6uf63m0k2s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
